@@ -1,0 +1,17 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+
+  "id": "https://tacotasu.ddo.jp/create-hello-world",
+  "type": "Create",
+  "actor": "https://tacotasu.ddo.jpactor",
+
+  "object": {
+    "id": "https://tacotasu.ddo.jp/hello-world",
+    "type": "Note",
+    "published": "2018-06-23T17:17:11Z",
+    "attributedTo": "https://tacotasu.ddo.jp/actor",
+    "inReplyTo": "https://mastodon.social/@takutou7/113134282732876900",
+    "content": "<p>Hello world</p>",
+    "to": "https://www.w3.org/ns/activitystreams#Public"
+  }
+}
